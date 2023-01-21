@@ -11,7 +11,7 @@ $gray-color: #4d4d4d;
 }
 
 body .bk {
-        background: url("./img/fondos-login.png");
+        background: url("/img/fondos-login.png");
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
@@ -80,7 +80,7 @@ section {
         display: grid;
         grid-template-columns: 1fr 1fr;
         &-bk {
-            background: url(./img/fondos-login-invertida.png);
+            background: url(/img/fondos-login-invertida.png);
             background-repeat: no-repeat;
             background-position: center;
             background-size: cover;
