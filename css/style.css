@@ -101,13 +101,6 @@ section .p-80 {
       border-radius: 5px; }
 
 /**PAGINA DE CONTACTO**/
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  font-family: 'Quicksand', sans-serif;
-  box-sizing: border-box; }
-
 body {
   background-image: linear-gradient(rgba(247, 35, 7, 0.5), rgba(112, 111, 111, 0.8)), url(../img/lineas-geometricas-de-neon-abstracto_7680x5120_xtrafondos.com.jpg);
   background-position: center;
